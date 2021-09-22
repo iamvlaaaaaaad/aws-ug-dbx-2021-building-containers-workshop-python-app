@@ -45,7 +45,7 @@ def healthy():
         JSON-formated response.
     """
     response = {
-        'status': 'Greeter service is healthy',
+        'status': 'Greeter service is super healthy',
     }
 
     return app.response_class(
