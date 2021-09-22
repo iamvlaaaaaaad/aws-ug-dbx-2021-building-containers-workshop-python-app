@@ -14,7 +14,7 @@ Since Python is an interpreted language, we need to run in an interpreted local 
 pip install poetry
 ```
 
-Dependencies are defined in `pyproject.toml`, `poetry.toml`, and `poetry.lock`. TO install the dependencies:
+Dependencies are defined in `pyproject.toml`, `poetry.toml`, and `poetry.lock`. To install the dependencies:
 
 ```console
 poetry install --no-dev
